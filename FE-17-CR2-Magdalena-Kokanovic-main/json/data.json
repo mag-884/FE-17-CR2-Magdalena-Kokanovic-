@@ -1,0 +1,74 @@
+let tasks = `[
+    {
+        "Taskname": "Relax yoga",
+        "place": "Studo Yoga",
+        "description": "Yoga is for everyone. ",
+        "image": "../images/todolist1.jpg",
+        "importance": "0",
+        "deadline": "01.10.2023"
+    },
+    {
+        "Taskname": "Fitness",
+        "place": "Fitness Studio",
+        "description": "Mens sana in corpore sano. ",
+        "image": "../images/todolist1.jpg",
+        "importance": "0",
+        "deadline": "01.10.2023"
+    },
+    {
+        "Taskname": "Birthday Party",
+        "place": "At Nina",
+        "description": "30th birhtday ",
+        "image": "../images/todolist1.jpg",
+        "importance": "0",
+        "deadline": "01.10.2023"
+    },
+    {
+        "Taskname": "Shopping",
+        "place": "SCS",
+        "description": "I need to buy some stuff for vocation ",
+        "image": "../images/todolist1.jpg",
+        "importance": "0",
+        "deadline": "01.10.2023"
+    },
+    {
+        "Taskname": "Meeting",
+        "place": "Paris",
+        "description": "Business meeting for the company ",
+        "image": "../images/todolist1.jpg",
+        "importance": "0",
+        "deadline": "01.10.2023"
+    },
+    {
+        "Taskname": "Project presentation",
+        "place": "Code Factory, Vienna",
+        "description": "Presentation of my full-stack project ",
+        "image": "../images/todolist1.jpg",
+        "importance": "0",
+        "deadline": "01.10.2023"
+    },
+    {
+        "Taskname": "Visit family",
+        "place": "Serbia",
+        "description": "Visiting my father and brother in Serbia",
+        "image": "../images/todolist1.jpg",
+        "importance": "0",
+        "deadline": "01.10.2023"
+    },
+    {
+        "Taskname": "Travel to Berlin",
+        "place": "Berlin",
+        "description": "Spaa weekend",
+        "image": "../images/todolist1.jpg",
+        "importance": "0",
+        "deadline": "01.10.2023"
+    },
+    {
+        "Taskname": "Travel to Disneyland",
+        "place": "Disneyland",
+        "description": "Travelling with my son to Disneyland ",
+        "image": "../images/todolist1.jpg",
+        "importance": "0",
+        "deadline": "01.10.2023"
+    }
+]`
