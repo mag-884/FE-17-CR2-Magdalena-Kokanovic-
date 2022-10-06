@@ -19,7 +19,7 @@ for (let theData of data) {
   <div class="card-header">
   <p class="c-header-text"><mark><i>Task</i></mark></p>
   </div>
-  <img src="${theData.image}" class="card-img-top" alt="...">
+  <img src="${theData.image}" class="card-img-top" alt="theData.image">
   <div class="card-body">
   <h5 class="card-title">${theData.Taskname}</h5>
   <p class="card-text">${theData.description}</p>
@@ -88,7 +88,7 @@ let marks = document.getElementsByTagName("mark")
 
 for(mark of marks) {
 
-  mark.style.background = "aqua"
+  mark.style.background = "lightblue"
   
 }
 
