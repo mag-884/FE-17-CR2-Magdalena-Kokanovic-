@@ -55,13 +55,17 @@ for (let theData of data) {
 
 
     button.addEventListener("click", function () {
-      if (parseInt(this.innerHTML) > 1 && parseInt(this.innerHTML) < 3) {
-        this.className = "btn btn-warning";
-      } else if (parseInt(this.innerHTML) > 3) {
-        this.className = "btn btn-danger";
-      }
+      if (parseInt(this.innerHTML) < 5) {
 
+        this.innerHTML = String((parseInt(this.innerHTML) + 1))
+        if (parseInt(this.innerHTML) > 1 && parseInt(this.innerHTML) < 3) {
+          this.className = "btn btn-warning";
+        } else if (parseInt(this.innerHTML) > 3) {
+          this.className = "btn btn-danger";
+        }
+      }
     });
+
 
 
 
