@@ -17,7 +17,7 @@ for (let theData of data) {
 <div class="col">
   <div class="card h-100">
   <div class="card-header">
-  <p class="c-header-text"><mark>Task</mark></p>
+  <p class="c-header-text"><mark><i>Task</i></mark></p>
   </div>
   <img src="${theData.image}" class="card-img-top" alt="...">
   <div class="card-body">
